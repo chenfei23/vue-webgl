@@ -1,0 +1,93 @@
+{
+  "id": "1854854",
+  "name": "Vue组件",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "15062334",
+      "name": "Vue组件-阴影分析-1.0",
+      "font_class": "Vue-shadowquery",
+      "unicode": "e62d",
+      "unicode_decimal": 58925
+    },
+    {
+      "icon_id": "15035697",
+      "name": "Vue组件-量算-空间面积-1.0",
+      "font_class": "Vue-measure-area",
+      "unicode": "e62c",
+      "unicode_decimal": 58924
+    },
+    {
+      "icon_id": "15033312",
+      "name": "Vue组件-剖面分析-1.0",
+      "font_class": "Vue-Profile",
+      "unicode": "e625",
+      "unicode_decimal": 58917
+    },
+    {
+      "icon_id": "15033313",
+      "name": "Vue组件-量算-依地面积-1.0",
+      "font_class": "Vue-measure-GroundArea",
+      "unicode": "e626",
+      "unicode_decimal": 58918
+    },
+    {
+      "icon_id": "15033314",
+      "name": "Vue组件-量算-空间距离-1.0",
+      "font_class": "Vue-measure-distance",
+      "unicode": "e627",
+      "unicode_decimal": 58919
+    },
+    {
+      "icon_id": "15033315",
+      "name": "Vue组件-量算-高度测量-1.0",
+      "font_class": "Vue-measure-height",
+      "unicode": "e628",
+      "unicode_decimal": 58920
+    },
+    {
+      "icon_id": "15033316",
+      "name": "Vue组件-天际线分析-1.0",
+      "font_class": "Vue-Skyline",
+      "unicode": "e629",
+      "unicode_decimal": 58921
+    },
+    {
+      "icon_id": "15033317",
+      "name": "Vue组件-量算-清除-1.0",
+      "font_class": "Vue-measure-clear",
+      "unicode": "e62a",
+      "unicode_decimal": 58922
+    },
+    {
+      "icon_id": "15033318",
+      "name": "Vue组件-量算-依地距离-1.0",
+      "font_class": "Vue-measure-GroundDistance",
+      "unicode": "e62b",
+      "unicode_decimal": 58923
+    },
+    {
+      "icon_id": "15033146",
+      "name": "Vue组件-通视分析-1.0 ",
+      "font_class": "Vue-sightline",
+      "unicode": "e623",
+      "unicode_decimal": 58915
+    },
+    {
+      "icon_id": "15032626",
+      "name": "Vue组件-量算-1.0",
+      "font_class": "Vue-measure",
+      "unicode": "e621",
+      "unicode_decimal": 58913
+    },
+    {
+      "icon_id": "15032020",
+      "name": "Vue组件-可视域分析-1.0",
+      "font_class": "Vue-viewshed",
+      "unicode": "e620",
+      "unicode_decimal": 58912
+    }
+  ]
+}

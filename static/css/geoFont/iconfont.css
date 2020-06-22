@@ -1,0 +1,65 @@
+@font-face {font-family: "iconfont";
+  src: url('iconfont.eot?t=1591076682720'); /* IE9 */
+  src: url('iconfont.eot?t=1591076682720#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('data:application/x-font-woff2;charset=utf-8;base64,d09GMgABAAAAAAlYAAsAAAAAEigAAAkKAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHEIGVgCEGgqUbJFIATYCJAM0CxwABCAFhG0Hggsbnw+jopSQZpH9JaYiI3ZXnzVm69wdj308OGF/weMmzgQ/IYQEQkAAAQDABQAAABcAWF74g1E8fH9vnvvf297BdlaghUKhjLeCoRVJAFc54x0k9n2/sf3ddjtD1CJdPCRCpxQelZqoiczlsi2l9eDvq3xF7z6fbMq1HJvc/9x4nEZiDAgJwjE9bvoPaEnqSirmaE24EFomScWUzLymIzNnpmRuME+/mLK1lsnufyF5BF1WDnihBGjv7MJMbatrZHuAwPyfcwxTVcZ5ptD2136tuoZi55FQPAba97n3BdhDF/c9dFELiSHpdEuQRLyKhkiESKKSEqljZFuygROPIlOCeDD5lcsJ0NQTGTg7u3mBcYLKgRYvVnMY11JITmDwiZpyaAa9w5AvPuYbePO+Pv60wwMFm0CvdHF3KuHgE4n3n7Q0kSDNYVyPggQ2QIY4pma/Ggpg4ykxjRx2B+psLQOfzNLbjnBycSp7eVEEbUnE11BLuazAXP95UQVV2hh10lI/Ifi3SiAtqAakCdWBJKgBJENNIBWoBaQKtYHUoA6QOtQF0oB64DdUFcTtVzrqkCVwDtIRIF8B1W483BQYdhhgFUdWM9JKWMRzoMTAiqjKjTYaLYt6riksC5XxRmdG2kxzchp29p3I+osHM2aFwuKwVxUYVGTfl0Z2NthjoYY6AFFaBHdAteWb8i/DsWJY4brVatFq0NtjsqTrDiiMUDPyUNvBydmNYPak+6z7yFf8d3nBr0kyhhxSMl4DLAg+J9gE88DpFLJInvMuskGGDCF3CQ8YDuUhu0w7QBoIs8hgoCQZBwBNhu3ZhF/2mIqCMAlW5tbgDIOiA1DIF9gNCKnQMo2g4ZxCgRaAwbJ3hl0qWngxyyGpFZvwW0NVb89e6ZvV8XtTYZe0GkaNsdooZaxVI8bKbNlFWluThR5uixIynza7Y/uFIdEd73HGRKHZdcFUrt8xHCpwe+hhFtmxONRWMKlNexkIBDdkFvRWCAjFqdRXmHf82QTIwPGIoTnIL4uQhwQL0UurAsZQln6xD4sS2SAvWfAxA+mCQrU+syqXhMdpxG3AeCDccLKBl70AwRLOifZQCNdATqYY+NknmoZhkohOKvNQwqtcvn6/3iSyLGbEOY0PUSYJobkkxllnsAjXwBbdyzC/Ca3nTRd//v7Ptaad0D2yGrj9MHN5YNOhpgVo5NApy4U5mEx3sRvIXxrNV9hXjzUJP0ysAQfL/F5LzhA4Qffba7WYFrU1MHaH6SM3NS7NCnAwMPCRNp318mURoUVZOhn6Qq0uX1r9UtYwudeYo9PJgmSMZRflajGQ6YUCa6v2pxRcTkmgh63KrI1XfY+Vlw/LOowSfmQM2eYlleLRbukdQSvbOq4tgHOCYTzzr7OiqKwP9njKxWw07cUdLLTTZxmc49T709/Y3tEki51/zsgfLM2n7y1zZVZiW4vbOZU8/T16tc3qzPQOcP++XyKbOAIfhI/waf4ho4OQJ+kiNknDj5hy9xEqHkkvdyznm6ToT9M1CVnPtbk/RYe+3Guop7IcAQ3iWcQTaD1EClQYLm3D/LAjTaj5ryGxglaKob9Q+AFEvEqLnlKpPikr81LxKD5BDG/b9olUGqVQqY51dQXIMzOzNJs929qrrEml8o5KVTN5+nRdo2d9qH1g/tbW1jaQYGWPi06dznbK3nuu/U5Ja2LOdVzYadu5xmzv3rVmnQa+iQ3s4M4NKBotCLmWHV0qS5wNaCr/Rl1mU5cXIU3MDYjesjkx43QYFj8rDRaENv630JAXaYEFNJaiHy/IY0brfSuPqNBE8MMxHk9iLhkeRs3RIEA8PLLHmp2mpkolhpXIZXJMztVKF8nkDkNBRNoV7+vU6dboFyUF+E9u0AHonQDXZf2Zdy2b4DfQDPEWvsB8RQOaIhCCgOieMf8jYj3kyV1nNsP1gGagciEf4St5qb0l6OPAdwgQDQhKPacQ/uMW3qamtZBAwreIIAl60RvqERLhEzQDINot8hiEQB4zVQoQNXeDgqIvrLRRUaikWceEx7nriciC1OIh7gx3Q7EaQfYH2ztG5axkaXyGF5KIJq2ZtYGS9x18AX4Dz0LfmcpaZ2gWdvbO9i0P0AB5Dp7j+n5db76e26+mICsXotR6IWUGOvNk6godhN7CB/EM/LYiK+YOL8JZ5DcoNIbrTKK/d4x+Ir54XmS6Xi0+fvQTMzGIZ4fvx+PXMsyXVk5pgjNGU929r+7ccd2fUZH1vvrS1Mo4irKit56vtSvCpCHWev3PBE0FDw5+ZRO2pywHq6vXkke22SIC8DD+cRa9PSJZcQAhKYR6QiP0E+sMJEhk8y9Kso6Vltlc9PqlZMeg8Vs7/1HZEqh5xUus/vDVmH9n7P8tmO0M+n1BDG6BG+fjZuzeGanUNJeXn+daZBFlfwvHxDGlGy5s0VgtV/jSDoSl1FgS3Fkka3Vems4Igxr/bSu/WjNuobRtLjLPc2niFxx5EVelyLr8WT9Qpv2HkmGe971Aipn74sQ53k7L/sCOMlIeRwR9zE6PIJ3MAaw6pHHzNL0ZHrZHX7hF8s/zv+4pH+/HSWGpE5RT4VwrlBZOykLJUfkj0dROfg2f4A2Ed7xM5RZwTk4vAc0f+usmfaJLHLwmXHUFp6tLvIljdt3oKpKtrsrb6ZrWzo9uKSNDKAfA2oelIwWfOiPnC5zm+gMC11+dVfNvVfgG66JH2JwymcVzUkTIA0rWrZgVLlc8PUz6LZ9QlyknIjnbvSF563LWqjd/deeYI5nYw/d0OwTFFLmMnVm7YJo6VpCLUYS6QW3RaTTU/YHqwmUw6YQgLkAS01VhLMHJKTV5MBn7/CdIK6U4yun3HfkNIp5dPNNS1yzheK7kpfodCu31aG2BYIWJrsTJMGcEo5RVO0yRvlEMCUGdqVFZ6GiQ8VRZpd69lu1zxe4bkN5vJwwxCVlScuQpUKREGcpSDvnLEmvecOn67yVSNa/TGXJfEtb4FstTr2UeyCmb4moGeU6uzOVh9pjlpOWk9YHnAhevjQxabUIzCTwnVWpzXFiCSJHTZsPayctpRvbVuWpRp+Tpv3V6FvveoAQAAA==') format('woff2'),
+  url('iconfont.woff?t=1591076682720') format('woff'),
+  url('iconfont.ttf?t=1591076682720') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+ */
+  url('iconfont.svg?t=1591076682720#iconfont') format('svg'); /* iOS 4.1- */
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.iconVue-shadowquery:before {
+  content: "\e62d";
+}
+
+.iconVue-measure-area:before {
+  content: "\e62c";
+}
+
+.iconVue-Profile:before {
+  content: "\e625";
+}
+
+.iconVue-measure-GroundArea:before {
+  content: "\e626";
+}
+
+.iconVue-measure-distance:before {
+  content: "\e627";
+}
+
+.iconVue-measure-height:before {
+  content: "\e628";
+}
+
+.iconVue-Skyline:before {
+  content: "\e629";
+}
+
+.iconVue-measure-clear:before {
+  content: "\e62a";
+}
+
+.iconVue-measure-GroundDistance:before {
+  content: "\e62b";
+}
+
+.iconVue-sightline:before {
+  content: "\e623";
+}
+
+.iconVue-measure:before {
+  content: "\e621";
+}
+
+.iconVue-viewshed:before {
+  content: "\e620";
+}
+

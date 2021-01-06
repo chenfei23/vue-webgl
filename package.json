@@ -16,7 +16,7 @@
   "dependencies": {
     "@supermap/iclient3d-webgl": "^1.0.6",
     "ant-design-vue": "^1.6.2",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "echarts": "^4.8.0",
     "view-design": "^4.2.0",
     "vue": "^2.5.11"
